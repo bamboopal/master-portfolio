@@ -80,7 +80,7 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/rickytree/master-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/bamboopal/master-portfolio/tree/main/utils/data).
 
 Eg:
 
@@ -93,7 +93,7 @@ export const personalData = {
   email: "niclas.kato92@gmail.com",
   phone: "+81505-806-8992",
   address: "Kaidechō, Muko, Kyoto, Japan",
-  github: "https://github.com/rickytree",
+  github: "https://github.com/bamboopal",
   facebook: "",
   linkedIn: "",
   twitter: "",

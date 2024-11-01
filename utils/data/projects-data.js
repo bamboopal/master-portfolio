@@ -1,7 +1,7 @@
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
+import ayla from '/public/image/ayla.jpg'
+import crefin from '/public/image/crefin.jpg'
+import realEstate from '/public/image/real-estate.jpg'
+import travel from '/public/image/travel.jpg'
 
 export const projectsData = [
     {
@@ -12,7 +12,7 @@ export const projectsData = [
         role: 'Front-end Engineer',
         code: '',
         demo: '',
-        image: crefin,
+        image: crefin
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ export const projectsData = [
         role: 'Front-end Developer',
         code: '',
         demo: '',
-        image: travel,
+        image: travel
     },
     {
         id: 3,
@@ -32,7 +32,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        image: realEstate
     },
     {
         id: 4,
@@ -42,9 +42,9 @@ export const projectsData = [
         code: '',
         demo: '',
         image: ayla,
-        role: 'Full Stack Developer',
+        role: 'Full Stack Developer'
     }
-];
+]
 
 export const examplesData = [
     {
@@ -55,50 +55,50 @@ export const examplesData = [
     },
     {
         cover_image: '/example/baron-nakamura.com.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Baron Nakamura',
+        url: 'https://baron-nakamura.com/',
+        description: 'It is for Cradle of the Universe. Infomed about the latest information on retreats, sessions, and more nationwide in Japan.'
     },
     {
         cover_image: '/example/clubmed.co.jp.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Club MED',
+        url: 'https://www.clubmed.co.jp/',
+        description: 'It specialises in luxury all-inclusive holidays – with absolutely no hidden costs including Thrilling skiing, sensational islands getaways and wonderful cultural.'
     },
     {
         cover_image: '/example/daellenbach.ch.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Daellenbach Swich',
+        url: 'https://daellenbach.ch/',
+        description: 'Their traditional Thun company has been a competent partner for all plastering and painting work for our customers since 1949.'
     },
     {
         cover_image: '/example/optimumresults.co.nz.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Optimum Results',
+        url: 'http://optimumresults.co.nz/',
+        description: 'They’re paid search scientists who specialise in optimising Google and Bing Ads accounts. They can manage your accounts, provide professional guidance, or help with a particular facet of paid search, like remarketing.'
     },
     {
         cover_image: '/example/harcourtsholidayhomes.co.nz.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Harcouts Holiday',
+        url: 'https://www.harcourtsholidayhomes.co.nz/',
+        description: 'They’re a small, local team who have the utmost respect and care when it comes to ensuring your holiday stay is the best one it possibly could be. All their guests enjoy an outstanding level of service that is second to none, as are their beautiful private holiday homes.'
     },
     {
         cover_image: '/example/randomshapes.com.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'Random Shapes',
+        url: 'https://randomshapes.com/',
+        description: 'They\'re Random Shapes, They Build Minimum Viable Products and Help Teams Grow.'
     },
     {
         cover_image: '/example/lmfx.com.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'LMFX',
+        url: 'https://lmfx.com/',
+        description: 'When it comes to trading, LMFX is the broker you are looking for, that offers advanced institutional and retail trading conditions to a global audience. They have thought of everything you might need, to ensure a smooth hassle-free trading experience.'
     },
     {
         cover_image: '/example/dominos.com.jm.png',
-        title: 'Anshinkai',
-        url: 'https://anshinkai-gr.jp/',
-        description: 'This site was developed to offer guarantor services to individuals seeking cosigners for housing leases.'
+        title: 'DOMINOS',
+        url: 'https://www.dominos.com.jm/',
+        description: 'Domino\'s Pizza Jamaica, Order Pizza Online for Delivery or Serve. Everyone is able to be served from the reliable and trust sercice of Domino\'s Pizza.'
     }
 ]

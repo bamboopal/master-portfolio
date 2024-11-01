@@ -5,7 +5,7 @@ export const personalData = {
   email: 'niclas.kato92@gmail.com',
   phone: '(+81) 505-806-8992',
   address: 'Kaidechō, Muko, Kyoto, Japan - 〒617-0004',
-  github: 'https://github.com/rickytree',
+  github: 'https://github.com/bamboopal',
   facebook: '',
   linkedIn: '',
   twitter: '',

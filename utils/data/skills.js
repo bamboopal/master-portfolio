@@ -24,7 +24,7 @@ export const skillsData = [
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/rickytree/master-portfolio/issues/new
+// Couldn't find the required skills? Raise an issue on github at https://github.com/bamboopal/master-portfolio/issues/new
 
 
 // AVAILABLE SKILLS

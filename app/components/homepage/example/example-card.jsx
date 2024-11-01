@@ -36,7 +36,7 @@ function ExampleCard({ example }) {
           </div>
         </div> */}
         <Link target='_blank' href={example.url}>
-          <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
+          <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-[#16f2b3]'>
             {example.title}
           </p>
         </Link>

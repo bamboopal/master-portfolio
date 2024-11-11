@@ -9,7 +9,7 @@ function ExampleCard({ example }) {
 
   return (
     <Link target='_blank' href={example.url}>
-      <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group cursor-pointer">
+      <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group cursor-pointer h-full">
         <div className="h-44 lg:h-52 w-auto overflow-hidden rounded-t-lg">
           <Image
             src={example?.cover_image}

@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'niclas.kato92@gmail.com',
-    phone: '+81505-806-8992',
-    address: 'Shinotsubo−1, Kaidechō, Muko, Kyoto, Japan - 〒617-0004',
+    phone: '+4866-951-34-73',
+    address: 'Piłsudskiego, Koszalin, Poland - 75-531',
     github: 'https://github.com/bamboopal',
     facebook: '',
     linkedIn: '',

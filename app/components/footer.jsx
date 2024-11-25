@@ -12,9 +12,9 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Developer Portfolio by <Link href="#" className="text-[#16f2b3]">Nicholas</Link>
+            © Developer Portfolio by <Link href="#" className="text-[#16f2b3]">Jakub</Link>
           </p>
-          <div className="flex items-center gap-5">
+          {/* <div className="flex items-center gap-5">
             <Link
               target="_blank"
               href="https://github.com/bamboopal/master-portfolio"
@@ -31,7 +31,7 @@ function Footer() {
               <CgGitFork />
               <span>Fork</span>
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </div >

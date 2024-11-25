@@ -86,14 +86,14 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Nicholas",
+  name: "Jakub",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Nicholas Kato....",
+  description: "My name is Jakub Kato....",
   email: "niclas.kato92@gmail.com",
-  phone: "+81505-806-8992",
-  address: "Kaidechō, Muko, Kyoto, Japan",
-  github: "https://github.com/bamboopal",
+  phone: "+4866-951-34-73",
+  address: "Piłsudskiego, Koszalin, Poland",
+  github: "https://github.com/******",
   facebook: "",
   linkedIn: "",
   twitter: "",
